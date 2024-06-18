@@ -404,7 +404,7 @@ void intro()
 	cout<<"\n| BANK";
 	cout<<"\n| MANAGEMENT";
 	cout<<"\n| SYSTEM";
-	cout<<"\n\nMADE BY : SUYASH KUMAR SRIVASTAVA";
+	cout<<"\n\nMADE BY : RAJ LAKSHMI MAHANTY";
 	cout<<"\n\nPress ENTER to continue...";
     cin.get();
 }
